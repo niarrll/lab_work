@@ -1,0 +1,17 @@
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\bin\Debug\net7.0-windows\OOPLR1.exe
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\bin\Debug\net7.0-windows\OOPLR1.deps.json
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\bin\Debug\net7.0-windows\OOPLR1.runtimeconfig.json
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\bin\Debug\net7.0-windows\OOPLR1.dll
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\bin\Debug\net7.0-windows\OOPLR1.pdb
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.csproj.AssemblyReference.cache
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\lab1oop.Form1.resources
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.csproj.GenerateResource.cache
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.AssemblyInfoInputs.cache
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.AssemblyInfo.cs
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.csproj.CoreCompileInputs.cache
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.dll
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\refint\OOPLR1.dll
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.pdb
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\OOPLR1.genruntimeconfig.cache
+C:\Lessons\OOP\code\ooplabs\laba1\lab1oop\obj\Debug\net7.0-windows\ref\OOPLR1.dll

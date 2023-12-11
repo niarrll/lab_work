@@ -1,0 +1,17 @@
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\bin\Debug\net7.0-windows\OOPLR3.exe
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\bin\Debug\net7.0-windows\OOPLR3.deps.json
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\bin\Debug\net7.0-windows\OOPLR3.runtimeconfig.json
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\bin\Debug\net7.0-windows\OOPLR3.dll
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\bin\Debug\net7.0-windows\OOPLR3.pdb
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.Form1.resources
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.csproj.GenerateResource.cache
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.AssemblyInfoInputs.cache
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.AssemblyInfo.cs
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.csproj.CoreCompileInputs.cache
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.sourcelink.json
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.dll
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\refint\OOPLR3.dll
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.pdb
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\OOPLR3.genruntimeconfig.cache
+C:\Users\OleksandrVoronkov\source\ooplabs\OOPLR3\OOPLR3\obj\Debug\net7.0-windows\ref\OOPLR3.dll
